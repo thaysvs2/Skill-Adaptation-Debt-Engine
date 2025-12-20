@@ -15,7 +15,7 @@
 </p>
 
 ---
-
+ 
 ## What this project is
 
 Most labor-market tools try to predict outcomes (salary, growth, “hot jobs”). This repo does something different:
